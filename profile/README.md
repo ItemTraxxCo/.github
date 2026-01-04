@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+This element is to be done by the PR and UI design team.
+
 <!--
 
 **Here are some ideas to get you started:**
