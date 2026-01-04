@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This element is to be done by the PR and UI design team.
+PRD document and othe documentation goes here
 
 <!--
 
