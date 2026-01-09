@@ -1,77 +1,49 @@
-# ItemTraxx
+# Welcome to ItemTraxx Co 
 
-Last updated: 2026
+![To be added soon](https://via.placeholder.com/250x80?text=ItemTraxx+Logo)
 
-**ItemTraxx** is a secure, cloud-based asset and equipment management platform developed by ItemTraxx Co for schools, businesses, and public organizations. This document provides an overview of the product, its features, technology stack, and links to official documentation.
-
----
-
-## 1. About ItemTraxx
-ItemTraxx Co. provides a robust solution for managing physical assets. With ItemTraxx, organizations can:
-
-- Track and manage equipment, tools, and resources
-- Maintain logs of checkouts, returns, and usage
-- Generate detailed usage reports for administrators
-- Prevent loss, damage, or mismanagement of assets
-
-ItemTraxx is built with scalability and security in mind.
+ItemTraxx Co develops **secure, cloud-based asset and equipment management solutions** for schools, businesses, and public organizations. Our mission is to provide reliable, scalable, and professional software that helps organizations track, manage, and report on their assets efficiently.
 
 ---
 
-## 2. Key Features
-- **Centralized Asset Management:** Manage all items in one platform  
-- **User-Friendly Interface:** Clean, intuitive dashboards for admins and users  
-- **Real-Time Tracking:** Immediate updates on checkouts and returns  
-- **Reports & Analytics:** Usage statistics and audit logs for compliance    
-- **Flag Lost/Damaged Items:** Keep your inventory accurate  
-- **Overdue Alerts:** Notify users about overdue assets  
+##  Our Products
+
+| Product | Description | Repository | Status |
+|---------|-------------|------------|--------|
+| **ItemTraxx** | Centralized asset and equipment management platform | [GitHub](https://github.com/ItemTraxxCo/ItemTraxx-App) | ![Repo Status](https://img.shields.io/badge/under_developement-orange) |
 
 ---
 
-## 3. Technology Stack
-ItemTraxx is built using modern web technologies:  
-- Frontend: React, TailwindCSS, Vue 3, JavaScript  
-- Backend: Node.js, Supabase  
-- Database: PostgreSQL
-- Hosting: Vercel Core Platform and Security  
+##  Key Features of ItemTraxx
+
+- Centralized asset tracking and management  
+- User roles and permissions for administrators and users  
+- Real-time checkouts, returns, and usage tracking  
+- Flag items as lost or damaged  
+- Overdue alerts and detailed reporting dashboards  
+- Export logs to CSV/PDF for reporting and audits  
 
 ---
 
-## 4. Documentation
-All official documentation is shown here:
+##  Documentation
 
-- [License](LICENSE.md) – Legal ownership and usage rights.  
-- [Terms of Service](TERMS.md) – Rules for using ItemTraxx.  
-- [Privacy Policy](PRIVACY.md) – How we collect, store, and protect data.  
-- [Security Guidelines](SECURITY.md) – Reporting vulnerabilities and secure use.  
-- [Changelog](CHANGELOG.md) – Track updates and new features.  
-
----
-
-## 5. Legal
-By using ItemTraxx, you agree to our [Terms of Service](TERMS.md) and [Privacy Policy](PRIVACY.md).  
-All rights reserved under [LICENSE.md](LICENSE.md).
+- [README.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/README.md) – Product overview  
+- [LICENSE.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/LICENSE.md) – Legal rights and usage  
+- [TERMS.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/TERMS.md) – Terms of service  
+- [PRIVACY.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/PRIVACY.md) – Privacy policy  
+- [SECURITY.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/SECURITY.md) – Security policies  
+- [CHANGELOG.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/CHANGELOG.md) – Version history  
 
 ---
 
-## 6. Support
-For assistance and more, please contact:
+##  Contact Us
 
-**ItemTraxx Co**  
-Email: email to be added soon    
-Website: to be added soon
+- **Website:** to be added soon  
+- **Support Email:** to be added soon  
 
----
-
-## 7. Security
-If you discover a security issue, please report it immediately.  
-See [SECURITY.md](SECURITY.md) for reporting instructions.
+Follow us for updates, announcements, and professional insights into asset management solutions.
 
 ---
 
-## 8. About ItemTraxx Co
-ItemTraxx Co is dedicated to providing innovative software solutions for organizations seeking reliable asset management and operational efficiency.  
-
----
-
-**© 2026 ItemTraxx Co. All rights reserved.**
+**© 2026 ItemTraxx Co. All rights reserved.**  
+Empowering organizations with secure and efficient asset management.
