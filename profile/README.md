@@ -38,8 +38,7 @@ ItemTraxx Co develops **secure, cloud-based asset and equipment management solut
 
 ##  Contact Us
 
-- **Website:** to be added soon  
-- **Support Email:** to be added soon  
+**Support Email:** to be added soon  
 
 Follow us for updates, announcements, and professional insights into asset management solutions.
 
