@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Secure, cloud-based asset and equipment management for schools, businesses, public organizations, and individuals.</strong>
+  <strong>Secure, cloud-based asset and equipment management for schools, businesses, organizations, and individuals.</strong>
 </p>
 
 <p align="center">
