@@ -22,9 +22,9 @@ Whether you're managing classroom devices, shared equipment, department inventor
 
 ## Our Product
 
-| Product | Description | Availability | Status |
-|---------|-------------|--------------|--------|
-| **ItemTraxx** | Centralized asset and equipment management platform for tracking, checkouts, reporting, and administrative oversight | Cloud-based, online | ![Status](https://img.shields.io/badge/beta-orange) |
+| Product | Description | Status |
+|---------|-------------|--------|
+| **ItemTraxx** | Centralized asset and equipment management platform for tracking, checkouts, reporting, and administrative oversight | ![Status](https://img.shields.io/badge/release-darkgreen) |
 
 ---
 
