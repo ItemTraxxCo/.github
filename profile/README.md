@@ -1,104 +1,101 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ItemTraxxCo/.github/main/profile/ItemTraxx Co Main Logo-Large.png" alt="ItemTraxx Co Logo" width="550" />
+  <img src="https://raw.githubusercontent.com/ItemTraxxCo/.github/main/profile/ItemTraxx%20Co%20Main%20Logo-Large.png" alt="ItemTraxx Co Logo" width="550" />
 </p>
 
 <p align="center">
-  <strong>Secure, cloud-based asset and equipment management for schools, businesses, organizations, and individuals.</strong>
+  <strong>Secure, cloud-based asset and equipment management for schools, businesses, organizations, and internal operations teams.</strong>
 </p>
 
 <p align="center">
- We build professional tools that help you track assets, manage item usage, and simplify accountability.
+  ItemTraxx helps teams track assets, manage accountability, and streamline day-to-day workflows across checkout, return, reporting, and administration.
 </p>
 
 ---
 
 ## Overview
 
-We develop modern asset and equipment management software designed for real-world operations. Our platform helps teams stay organized with centralized inventory records, user-based access controls, transaction history, and reporting tools built for day-to-day operations.
-
-Whether you're managing classroom devices, shared equipment, department inventory, or organizational assets, ItemTraxx is designed to provide a secure and scalable system for keeping everything visible and under control.
+ItemTraxx is a modern asset and equipment management platform built for operational reliability and security.  
+Teams use ItemTraxx to centralize inventory, control access by role, maintain transaction history, and improve visibility across departments, locations, and users.
 
 ---
 
-## Our Product
+## Product
 
 | Product | Description | Status |
 |---------|-------------|--------|
-| **ItemTraxx** | Centralized asset and equipment management platform for tracking, checkouts, reporting, and administrative oversight | ![Status](https://img.shields.io/badge/release-darkgreen) |
+| **ItemTraxx** | Centralized platform for inventory tracking, checkout/return workflows, admin controls, audit logs, and reporting | ![Status](https://img.shields.io/badge/release-active-darkgreen) |
 
 ---
 
 ## What ItemTraxx Helps You Do
 
-- Track assets and equipment from one centralized system
-- Manage checkouts, and returns
-- Support administrators with role-based permissions
-- Monitor overdue, lost, or damaged items
-- Keep usage history and accountability records
-- Generate exportable logs and reports for operations and audits
-- Improve visibility across teams, departments, and locations
+- Track inventory and equipment in one centralized system
+- Manage checkout and return workflows with clear accountability
+- Apply role-based permissions for staff, admins, and super admins
+- Monitor availability and item status across operations
+- Maintain operational history and exportable logs
+- Support audits, compliance workflows, and internal reporting
+- Improve visibility across districts, organizations, and teams
 
 ---
 
-## Key Features
+## Core Capabilities
 
-### Centralized Asset Management
-Maintain a clear, organized record of equipment, inventory, and status across your organization.
+### Inventory and Asset Records
+Maintain structured records for assets, ownership context, and lifecycle status.
 
-### Checkout and Return Workflows
-Record who has what, when it was checked out, and when it is due back.
+### Checkout and Return Management
+Track who has what, when it was checked out, and when it is expected back.
 
-### Role-Based Access
-Support administrators, staff, and users with permissions that match operational responsibilities.
+### Role-Based Administration
+Use scoped access controls for tenant admin, district/organization admin, and super admin workflows.
 
-### Status Tracking
-Flag assets as available, checked out, overdue, lost, or damaged.
+### Status and Lifecycle Tracking
+Track item state (for example: available, checked out, overdue, lost, damaged, retired, or in repair).
 
-### Reporting and Audit Support
-Access logs and export data for internal reviews, compliance, and accountability.
+### Reporting and Operational Exports
+Generate logs and exports for audits, operations reviews, and accountability workflows.
 
-### Cloud-Based Access
-Use a secure online platform built for reliability, scalability, and professional management workflows.
+### Cloud Platform
+Access ItemTraxx securely from anywhere with infrastructure designed for scale and uptime.
 
 ---
 
-## Who It’s Built For
+## Built For
 
-ItemTraxx is designed for organizations, schools, and individuals that need clear control over physical assets, including:
+ItemTraxx supports operations across:
 
 - Schools and districts
-- Businesses and internal operations teams
-- Public organizations
-- Administrative departments managing shared equipment/items
-- Programs that need reliable inventory tracking and reporting workflows
-- Individuals looking to organize inventory
+- Organizations and internal operations teams
+- Businesses managing shared equipment
+- Program administrators and support teams
+- Teams requiring clear asset accountability and reporting
 
 ---
 
 ## Documentation
 
-- [README.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/README.md) - Product overview
-- [LICENSE.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/LICENSE.md) - Legal rights and usage
-- [TERMS.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/TERMS.md) - Terms of service
-- [PRIVACY.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/PRIVACY.md) - Privacy policy
-- [SECURITY.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/SECURITY.md) - Security policies
-- [CHANGELOG.md](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/CHANGELOG.md) - Version history
+- [ItemTraxx App README](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/README.md)
+- [License](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/LICENSE.md)
+- [Terms](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/TERMS.md)
+- [Privacy](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/PRIVACY.md)
+- [Security](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/SECURITY.md)
+- [Changelog](https://github.com/ItemTraxxCo/ItemTraxx-App/blob/main/CHANGELOG.md)
 
 ---
 
 ## Support
 
-For support, product questions, or general inquiries: [Contact Support Here](https://itemtraxx.com/contact-support)
-
-For sales inquiries: [Contact Sales Here](https://itemtraxx.com/contact-sales)
+- Product support: [Contact Support](https://itemtraxx.com/contact-support)
+- Sales inquiries: [Contact Sales](https://itemtraxx.com/contact-sales)
 
 ---
 
-## Our Mission
+## Mission
 
-Our mission is to provide secure, scalable, and dependable software that helps organizations manage assets with confidence, reduce manual overhead, and maintain accurate operational records.
+Our mission is to provide secure, scalable, and dependable software that helps teams manage assets with confidence, reduce manual overhead, and maintain accurate operational records.
 
 ---
 
 **© 2026 ItemTraxx Co. All rights reserved.**  
-Empowering organizations with secure and efficient asset management.
+We make inventory tracking easier.
